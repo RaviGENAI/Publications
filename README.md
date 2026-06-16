@@ -13,10 +13,10 @@ https://ieee-dataport.org/documents/underwater-shrimp-monitoring-dataset<br>
 Commuicated to IEEE Access<br>
 Commuicated to Aquaculture Engineering (SCIE-Q1) 
 
-<img width="1060" height="1600" alt="Aqua Engineering" src="https://github.com/user-attachments/assets/e10e7521-d98d-41c1-9d84-5eea22efb10e" />
+<img width="500" height="500" alt="Aqua Engineering" src="https://github.com/user-attachments/assets/e10e7521-d98d-41c1-9d84-5eea22efb10e" />
 
 Aquaculture INternational(SCIE_Q1) <br>
-<img width="1080" height="1322" alt="Aqua International" src="https://github.com/user-attachments/assets/01a321f2-e027-4471-a63b-93bd2767d5e1" />
+<img width="500" height="500" alt="Aqua International" src="https://github.com/user-attachments/assets/01a321f2-e027-4471-a63b-93bd2767d5e1" />
 
 <b>Paper-3 Scientific Reports( SCIE-Q1) Springer Nature<br>
 https://www.nature.com/articles/s41598-025-06758-4<br>
