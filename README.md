@@ -16,6 +16,6 @@ https://ieee-dataport.org/documents/underwater-shrimp-monitoring-dataset<br>
 <b>Aquaculture INternational(SCIE_Q1)<b> <br>
 <img width="250" height="250" alt="Aqua International" src="https://github.com/user-attachments/assets/01a321f2-e027-4471-a63b-93bd2767d5e1"/><br>
 
-<b>Paper-3 Scientific Reports( SCIE-Q1) Springer Nature<br>
+<b>Paper-3 Scientific Reports( SCIE-Q1) Springer Nature (Article in Press)<br>
 https://www.nature.com/articles/s41598-025-06758-4<br>
 Original Paper Copy:https://www.nature.com/articles/s41598-026-49551-7_reference.pdf
